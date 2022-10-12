@@ -3,4 +3,4 @@ The principal task is to analyse the data and identify the trends of how annual 
 
 Employed multiple software applications (Microsoft Excel for data preparation, Big Query for data cleaning, R for analysis and Tableau for creating a data visualization) to incorporate all the tools learnt in Google Data Analytics Professional Certification. BigQuery was used since the dataset was too large to load quickly in MySQL workbench.
 
-Click [here](https://pages.github.com/](https://public.tableau.com/app/profile/connect.midhunr/viz/Cyclistic_16391927710350/Dashboard2) to view the data visualization.
+Click [here](https://public.tableau.com/app/profile/connect.midhunr/viz/Cyclistic_16391927710350/Dashboard2) to view the data visualization.
