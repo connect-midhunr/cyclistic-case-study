@@ -2,6 +2,8 @@
   <img src="Images/banner_cyclist.png" alt="Banner">
 </p>
 
+In this project, I have attempted to analyze the dataset of a cycle-sharing company and come up a marketing campaign, with the information gained from analysis, to convert casual riders into annual members. No personal information of customer is provided in this dataset.
+
 ## :floppy_disk: Project Files Description</h2>
 
 <p>This project contains an executable iPython Notebook, an R executable file and the data visualization as follows:</p>
@@ -58,11 +60,13 @@ EDA was done on:
 <li>Total Duration of Rides for each Month of the Year Categorized by User Type.</li>
 <li>Average Duration of Rides for each Month of the Year Categorized by User Type.</li>
 <li>Location of the Docking Stations.</li>
+
 Charts used for analyses are bar graph, pie chart and map.
 
 ## :book: Data Visualization
 
 <img src="Data Visualization.png" alt="Banner">
+[![](Data Visualization.png)][(https://public.tableau.com/profile/teyang.lau#!/vizhome/HowHappyAreWe_15897258564380/Dashboard1](https://public.tableau.com/app/profile/connect.midhunr/viz/Cyclistic_16391927710350/Dashboard2))
 Click [here](https://public.tableau.com/app/profile/connect.midhunr/viz/Cyclistic_16391927710350/Dashboard2) to interact with the data visualization.
 
 ## 📘: Conclusion
