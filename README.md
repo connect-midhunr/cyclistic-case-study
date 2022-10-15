@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="Images/banner_cyclist.png" alt="Banner">
+  <img src="Images/banner_cycle.png" alt="Banner">
 </p>
 
 In this project, I have attempted to analyze the dataset of a cycle-sharing company and come up a marketing campaign, with the information gained from analysis, to convert casual riders into annual members. No personal information of customer is provided in this dataset.
@@ -114,3 +114,5 @@ Midhun R | Avid Learner | Data Analyst | Data Scientist | Machine Learning Enthu
       <p>Available: https://medium.com/edureka/tableau-dashboards-3e19dd713bc7</p>
   </li>
 </ul>
+
+<a href="https://www.freepik.com/free-vector/travel-landing-page_4219814.htm#query=cycling&position=2&from_view=search&track=sph">Image by pikisuperstar</a> on Freepik
