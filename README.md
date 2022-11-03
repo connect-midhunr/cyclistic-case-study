@@ -6,7 +6,7 @@ In this project, I have attempted to analyze the dataset of a cycle-sharing comp
 
 ## :floppy_disk: Project Files Description</h2>
 
-<p>This project contains an executable iPython Notebook, an R executable file and the data visualization as follows:</p>
+<p>This project contains an executable iPython Notebook, an R executable file, the data visualization and source files as follows:</p>
 <h4>Executable Files:</h4>
 <ul>
   <li><b>Cyclistic Case Study.ipynb</b> - Google Colab notebook containing data summary, data cleaning, exploration, visualisations and conclusion.</li>
